@@ -1,5 +1,4 @@
 # Custom Database Assistant
-===========================
 
 ## Overview
 This project is a custom database assistant that utilizes the open-source Google PaLM LLM to connect with your database. The assistant requires the following information to connect with your database:
